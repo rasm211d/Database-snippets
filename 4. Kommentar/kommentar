@@ -2,7 +2,8 @@ Mit forhold til databaser
 Hvad skal jeg bruge det til?
 
 Databaser er en god måde at lagre en masse data med ens elementer. 
-Hvis der f.eks. skal laves et program med en masse ens elementer der variere
+Hvis der f.eks. skal laves et program med en masse ens elementer der variere,
+jeg tænker databaserne primært skal bruges som opslagsværktøj! :)
 
 Hvis jeg laver et program til udlån af penge kunne man have elementer som: Navn, beløb, lånetid, rente, osv.
 
